@@ -8,6 +8,8 @@ MS Artificial Intelligence at UET Peshawar. Before AI, six years in mechanical e
 
 **MFCAD-Net** is my MS thesis. It converts photographed hand-drawn mechanical sketches into parametric CAD geometry: typed primitives with real parameters, rather than an image that resembles a drawing. Method and results are being prepared for publication.
 
+**HujraCart** is a geospatial sales and inventory platform I am building with my team at Khan's AI. A single Flutter codebase targets Windows desktop and Android, on Supabase with PostgreSQL and PostGIS, with OpenStreetMap-based mapping and routing. Role-based access separates administrators, shopkeepers, field salesmen and customers, and customers discover nearby shops by GPS radius. It is in pilot with real shopkeepers and salesmen, and offline support is being added at the request of salesmen working in areas with poor signal. Source is private ahead of release.
+
 ## Selected projects
 
 | Project | What it is |
@@ -21,6 +23,7 @@ MS Artificial Intelligence at UET Peshawar. Before AI, six years in mechanical e
 
 PyTorch · TensorFlow · OpenCV · scikit-learn · XGBoost · Hugging Face Transformers
 Python · NumPy · Pandas · Gradio · Streamlit · Flask
+Flutter · Dart · Supabase · PostgreSQL · PostGIS
 SolidWorks · Sinumerik 840D sl · Fanuc · PowerMill · Mastercam
 
 Reach me at khan.ai.dev25@gmail.com or on LinkedIn.
